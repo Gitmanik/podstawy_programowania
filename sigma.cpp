@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    int rozmiar = 10;
+    int rozmiar = 9;
 
     for (int x = 0; x < rozmiar; x++)
         cout << "#";
@@ -44,7 +44,7 @@ int main()
             }
             cout << endl;
         }
-        else if (rozmiar % 2 == 1)
+        else
         {
             for (int x = 0; x < rozmiar; x++)
             {
@@ -63,7 +63,35 @@ int main()
     for (int x =0; x < rozmiar - 2; x++)
         cout << "*";
     cout << "#";
-    cout << endl;
+    cout << endl;gfjfxkugfj dsfhvjbsdf
+    fbsdkhfgtdsrifguhdfug hdifkij
+     jg hjdkfghug dhiughidfhg 
+     rdbkjdsfgbeduiastgarsiut hgbsdaxjg bargjnge sio 
+      b asregf kju.asfhisaeibj 
+       egbdr bdrrbjse
+        bvg bhagagr]
+        [teg 
+        
+         
+          d gbdfjkhg hgdrjkf;lk_(sfgsfd
+          []gf
+           po0)()FV980-eSD
+        ]  BKJFGY)(WEFuVBS))]
+        |{}g-9yu aw97 hjkasgbegef s.jsdo
+        |&(IU) pSF BJJ
+        |
+        +}90 (OIBp00_IP)09
+        KGuX>LJ<O{|)(*}{})}
+
+        kjhv.B 79080+}
+        _{
+            ' :IU(HVn;n FS
+            
+            89-0mF(PIBKJ|
+            () 9oipuZJBFHIOAIFOU:890A=]{P'
+            {I_P{)FP{DF(A)_Wfdvjhfnbj 
+            | 
+            ]+}}}
 
     for (int x = 0; x < rozmiar; x++)
         cout << "#";
