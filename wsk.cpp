@@ -6,7 +6,10 @@ int main()
     int **ppi = &pi; // ppi wskazuje na pi
     int y = x;
 
-    // y lezy na 0x61ff10
+
+
+    
+    // y lezy na 0x61ff10 (przykładowo)
     // pi wskazuje na adres 0x61ff10 (y)
     // ppi wskazuje na adres 0x61ff14 (pi)
 
@@ -18,9 +21,11 @@ int main()
     *pi = 6;   // y = 6;
     **ppi = 7; // *pi = 7; y = 7;
 
-    char* str = "gowno";
+    const char* str = "gowno";
 
     str++;
-    std::cout << *str;
+    char c = *str; //o (dereferencja adresu do wartości char) (przesunelismy wskaznik o jeden w prawo, wiec 'g' znika)
+    std::cout << c << std::endl; 
+    std::cout << str; //owno (przesunelismy wskaznik o jeden w prawo, wiec 'g' znika)
 
 }
